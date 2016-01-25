@@ -1,0 +1,74 @@
+<!Doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./bootstrap-3.3.5-dist/css/bootstrap.min.css">
+  <script src="jquery.min.js"></script>
+  <script src="./bootstrap-3.3.5-dist/js/bootstrap.js"></script>
+  
+</head>
+
+<body style="background-color:black">
+<style>
+p.contact{
+    position:fixed;
+    bottom:10px;
+    right:0px;
+    height:20px;
+    width:250px;
+    background-color:'black'; 
+}
+</style>
+  <div class="container" width:100%; height:400px>
+    <img src="developer-bg.jpg" alt="Why So Serious ? ( Joker )" width="100%"; height="300px">
+  </div>
+  <br><br><br>
+  <section class="grigio">
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="media">
+         <div class="row ">
+          <div class="media-img  pull-left  col-sm-5  col-md-4 ">
+           <a href="https://www.facebook.com/Aseemshrey"><img src="Aseem.jpg" class="img-circle" alt="Aseem" width="150" height="150"></a> </div>
+            <div class="media-body   col-sm-7 col-md-8  "><br>
+              <h4 class="media-heading" style="color:white;font-family:Lucida Calligraphy"><strong> Aseem Shrey</strong></h4>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="media">
+          <div class="row ">
+          <div class="media-img pull-left   col-sm-5 col-md-4 ">
+            <a href="https://www.facebook.com/anurag.kushwaha.1441"><img src="Anurag1.jpg" class="img-circle" alt="Anurag Kumar Kushwaha" width="150" height="150"></a> </div>
+             <div class="media-body   col-sm-7  col-md-8 "><br>
+              <a href="https://www.facebook.com/anurag.kushwaha.1441"><h4 class="media-heading" style="color:white;font-family:Lucida Calligraphy">Anurag Kumar Kushwaha</h4></a>
+              
+             </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="media">
+          <div class="row ">
+            <div class="media-img  pull-left   col-sm-5 col-md-4 ">
+             <a href="https://www.facebook.com/ayushbansalcfc"><img src="Ayush-Bansal.jpg" class="img-circle" alt="Ayush Bansal" width="150" height="150"> </div>
+             <div class="media-body  col-sm-7 col-md-8 "><br>
+              <a href="https://www.facebook.com/ayushbansalcfc"><h4 class="media-heading" style="color:white;font-family:Lucida Calligraphy">Ayush Bansal</h4></a>
+              
+             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="contact"><a href="feedback.html"><strong>Feedback</strong></a></p>
+
+    
+
+  </div>
+</section>
